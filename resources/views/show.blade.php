@@ -101,6 +101,7 @@
                 <p><span class="label">Trajeto:</span> {{ $carona->trajeto }}</p>
                 <p><span class="label">Indo:</span> {{ $carona->indo ? 'Sim' : 'Não' }}</p>
             </div>
+            <br>
             <a href="{{ url('/') }}" class="button">Voltar para a lista</a>
         </div>
     </div>

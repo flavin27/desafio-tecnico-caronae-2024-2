@@ -80,7 +80,7 @@
 </head>
 <body>
     <div class="navbar">
-        <h1>Home - Caronas</h1>
+        <h1>Lista de Caronas</h1>
     </div>
 
     <div class="container">

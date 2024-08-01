@@ -19,8 +19,8 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/caronas-project.git
-cd caronas-project
+git clone https://github.com/flavin27/desafio-tecnico-caronae-2024-2.git
+cd desafio-tecnico-caronae-2024-2
 ```
 
 ### 2. Instalar Dependências
